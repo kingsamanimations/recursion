@@ -44,4 +44,4 @@ const merge = (left, right) => {
 
 // Value arrays
 
-console.log("Recursion - Merge Sort Algo", mergesort([8, 3, 14, 49, 6, 7, 1, 90]));
+console.log("This was printed recursively", mergesort([8, 3, 14, 49, 6, 7, 1, 90]));

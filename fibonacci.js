@@ -25,4 +25,4 @@ const fibsRec = (length) => {
     ];
 }
 
-console.log("Recursion", fibsRec(8));
+console.log("This was printed recursively", fibsRec(8));
