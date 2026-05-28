@@ -1,6 +1,2 @@
-# Recursion
-Recursion is where you break a problem into smaller chanks, known as Divide And Conquer. In coding, the idea is a function calling itself, until it reaches an exit condition.
-I tried fibonacci, and merge sort using Recursion, and given them 1 array each to sort.
+# recursion
 
-how to run in a terminal?
-node ____.js
